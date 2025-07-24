@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Rindra Ambinintsoa Razafinjatovo</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=360&lines=Instructor+%7C+Engineer+%7C+Entrepreneur;AI-powered+Education+Advocate;Crafting+Digital+Learning+Journeys+with+Faith+and+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=4000&lines=Instructor+%7C+Engineer+%7C+Entrepreneur;AI-powered+Education+Advocate;Crafting+Digital+Learning+Journeys+with+Faith+and+Tech" />
 
 </p>
 
