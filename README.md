@@ -1,7 +1,6 @@
 <h2 align="center">Hi, I'm Rindra Ambinintsoa Razafinjatovo</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Instructor+%7C+Engineer+%7C+Entrepreneur;AI-powered+Education+Advocate;Crafting+Digital+Learning+Journeys+with+Faith+and+Tech" />
-
 </p>
 
 ---
@@ -28,6 +27,14 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-005CA9?style=flat-square)
+![Turbo C](https://img.shields.io/badge/Turbo_C-004482?style=flat-square)
+![Assembler](https://img.shields.io/badge/Assembler-6E4C13?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=flat-square)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -49,6 +56,9 @@
 <a href="https://github.com/tambanivohitra007/OCR_GPT_Helper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&repo=OCR_GPT_Helper&theme=dark" />
 </a>
+<a href="https://github.com/tambanivohitra007/Tahiry-Version-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&repo=Tahiry-Version-2&theme=dark" />
+</a>
 
 ---
 
@@ -62,7 +72,7 @@
 
 ### GitHub Stats
 
-![Rindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=tambanivohitra007&show_icons=true&theme=radical)
+![Rindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=tambanivohitra007&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tambanivohitra007&layout=compact&theme=radical)
 
 ---
