@@ -142,36 +142,6 @@ passion: Building at the intersection of faith, learning & code
 </div>
 
 <br/>
-
-<!-- ── PINNED PROJECTS ──────────────────────────────────────────────── -->
-
-<div align="center">
-
-### `🚀 Featured Projects`
-
-<br/>
-
-<a href="https://github.com/tambanivohitra007/academic-craft-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&amp;repo=academic-craft-ai&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00FFAA&amp;icon_color=00FFAA&amp;text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/tambanivohitra007/OCR_GPT_Helper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&amp;repo=OCR_GPT_Helper&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00FFAA&amp;icon_color=00FFAA&amp;text_color=c9d1d9" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/tambanivohitra007/Tahiry-Version-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&amp;repo=Tahiry-Version-2&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00FFAA&amp;icon_color=00FFAA&amp;text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/tambanivohitra007/Cb_LMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&amp;repo=Cb_LMS&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00FFAA&amp;icon_color=00FFAA&amp;text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
 <!-- ── 2026 FOCUS ────────────────────────────────────────────────────── -->
  
 <div align="center">
