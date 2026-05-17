@@ -23,16 +23,20 @@
 
 <!-- ── ABOUT ─────────────────────────────────────────────────────────── -->
 
+<div align="center">
+
 ```
- ╔══════════════════════════════════════════════════════════════╗
- ║  > whoami                                                   ║
- ║                                                             ║
- ║  Instructor @ Asia-Pacific International University 🇹🇭      ║
- ║  Reshaping education through AI-powered tools & pedagogy    ║
- ║  Entrepreneur exploring innovative technical workflows      ║
- ║  Building at the intersection of faith, learning & code     ║
- ╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  > whoami                                                   ║
+║                                                             ║
+║  Instructor @ Asia-Pacific International University 🇹🇭      ║
+║  Reshaping education through AI-powered tools & pedagogy    ║
+║  Entrepreneur exploring innovative technical workflows      ║
+║  Building at the intersection of faith, learning & code     ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 <br/>
 
@@ -109,25 +113,25 @@
 
 <br/>
 
-<!-- Stats + Streak side by side -->
+<!-- Stats + Top Langs side by side -->
 <a href="https://github.com/tambanivohitra007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tambanivohitra007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&ring_color=00FFAA&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tambanivohitra007&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00FFAA&amp;icon_color=00FFAA&amp;text_color=c9d1d9&amp;ring_color=00FFAA&amp;count_private=true" />
 </a>
 <a href="https://github.com/tambanivohitra007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tambanivohitra007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFAA&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tambanivohitra007&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00FFAA&amp;text_color=c9d1d9&amp;langs_count=8" />
 </a>
 
 <br/><br/>
 
 <!-- Streak -->
 <a href="https://github.com/tambanivohitra007">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tambanivohitra007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=c9d1d9&dates=555555" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tambanivohitra007&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=00FFAA&amp;fire=00FFAA&amp;currStreakLabel=00FFAA&amp;sideLabels=c9d1d9&amp;dates=555555" />
 </a>
 
 <br/><br/>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tambanivohitra007&bg_color=0d1117&color=00FFAA&line=00FFAA&point=ffffff&area=true&area_color=00FFAA&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tambanivohitra007&amp;bg_color=0d1117&amp;color=00FFAA&amp;line=00FFAA&amp;point=ffffff&amp;area=true&amp;area_color=00FFAA&amp;hide_border=true" width="95%" />
 
 </div>
 
@@ -142,21 +146,21 @@
 <br/>
 
 <a href="https://github.com/tambanivohitra007/academic-craft-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&repo=academic-craft-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&amp;repo=academic-craft-ai&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00FFAA&amp;icon_color=00FFAA&amp;text_color=c9d1d9" />
 </a>
 &nbsp;
 <a href="https://github.com/tambanivohitra007/OCR_GPT_Helper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&repo=OCR_GPT_Helper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&amp;repo=OCR_GPT_Helper&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00FFAA&amp;icon_color=00FFAA&amp;text_color=c9d1d9" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/tambanivohitra007/Tahiry-Version-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&repo=Tahiry-Version-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&amp;repo=Tahiry-Version-2&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00FFAA&amp;icon_color=00FFAA&amp;text_color=c9d1d9" />
 </a>
 &nbsp;
 <a href="https://github.com/tambanivohitra007/Cb_LMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&repo=Cb_LMS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tambanivohitra007&amp;repo=Cb_LMS&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00FFAA&amp;icon_color=00FFAA&amp;text_color=c9d1d9" />
 </a>
 
 </div>
@@ -169,19 +173,19 @@
 
 ### `🎯 2026 Focus`
 
-</div>
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🧠  AI-Augmented Pedagogy & Curriculum Design             │
+│   📱  Mobile App Development (Flutter + Firebase)           │
+│   🏗️  RAG Systems & LLM Integration Pipelines              │
+│   🤝  University-Industry Digital Transformation            │
+│   ⛪  Faith-Tech Community Tools                            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │   🧠  AI-Augmented Pedagogy & Curriculum Design             │
-  │   📱  Mobile App Development (Flutter + Firebase)           │
-  │   🏗️  RAG Systems & LLM Integration Pipelines              │
-  │   🤝  University-Industry Digital Transformation            │
-  │   ⛪  Faith-Tech Community Tools                            │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
-```
+</div>
 
 <br/>
 
