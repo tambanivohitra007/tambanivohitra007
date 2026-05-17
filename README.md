@@ -22,20 +22,26 @@
 <br/>
 
 <!-- ── ABOUT ─────────────────────────────────────────────────────────── -->
-
+ 
 <div align="center">
-
+<table>
+<tr>
+<td>
+### 👨‍💻 About Me
+ 
+```yaml
+role: Faculty Member & IT Project Manager
+organization: Asia-Pacific International University 🇹🇭
+focus:
+  - AI-powered education & pedagogy
+  - Mobile app development (Flutter + Firebase)
+  - Digital transformation initiatives
+passion: Building at the intersection of faith, learning & code
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  > whoami                                                   ║
-║                                                             ║
-║  Instructor @ Asia-Pacific International University 🇹🇭      ║
-║  Reshaping education through AI-powered tools & pedagogy    ║
-║  Entrepreneur exploring innovative technical workflows      ║
-║  Building at the intersection of faith, learning & code     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
+ 
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
@@ -166,25 +172,26 @@
 </div>
 
 <br/>
-
 <!-- ── 2026 FOCUS ────────────────────────────────────────────────────── -->
-
+ 
 <div align="center">
-
-### `🎯 2026 Focus`
-
+<table>
+<tr>
+<td>
+### 🎯 2026 Focus
+ 
+```yaml
+priorities:
+  education: AI-Augmented Pedagogy & Curriculum Design
+  mobile: Mobile App Development (Flutter + Firebase)
+  ai_systems: RAG Systems & LLM Integration Pipelines
+  partnerships: University-Industry Digital Transformation
+  community: Faith-Tech Community Tools
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🧠  AI-Augmented Pedagogy & Curriculum Design             │
-│   📱  Mobile App Development (Flutter + Firebase)           │
-│   🏗️  RAG Systems & LLM Integration Pipelines              │
-│   🤝  University-Industry Digital Transformation            │
-│   ⛪  Faith-Tech Community Tools                            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
+ 
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
@@ -200,16 +207,6 @@
 ![Pull Shark](https://img.shields.io/badge/Pull_Shark-00FFAA?style=for-the-badge&logo=github&logoColor=0d1117)
 ![Quickdraw](https://img.shields.io/badge/Quickdraw-00FFAA?style=for-the-badge&logo=github&logoColor=0d1117)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFAA?style=for-the-badge&logo=github&logoColor=0d1117)
-
-</div>
-
-<br/>
-
-<!-- ── SNAKE ─────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tambanivohitra007/tambanivohitra007/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 </div>
 
